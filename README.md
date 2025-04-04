@@ -11,7 +11,7 @@ This tool exploits a [vulnerability](https://fredericb.info/2020/06/exynos-usbdl
 ## Supported targets
 * Exynos 8890
 * Exynos 8895
-
+* Exynos 9611? (WIP)
 ## Access to USB download mode
 Among all the booting methods supported by this chipset, two are configured in fuses to be attempted on cold boot.
 If the first boot method fails (including failed authentication), then second boot method is attempted.
