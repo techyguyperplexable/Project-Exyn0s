@@ -1,7 +1,3 @@
-/* exynos-usbdl - github.com/frederic/exynos-usbdl
- * SPDX-License-Identifier: GPL-3.0-or-later
- */
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdint.h>
